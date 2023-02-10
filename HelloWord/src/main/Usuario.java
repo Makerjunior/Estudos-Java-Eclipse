@@ -19,7 +19,7 @@ class Usuario  extends Carro{
 	}
 		 
 	    // 
-	     
+	      
 	public Usuario(String NomU, String idade, String endrec, String NomCar,String SegurCar,String ValoCar) {
 		super(NomCar, SegurCar, ValoCar);
 		this.nomeString=NomU;
